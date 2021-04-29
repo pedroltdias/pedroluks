@@ -1,5 +1,5 @@
 ## Oii! Eu sou o Pedro Lucas, estudante de Engenharia de Computação/Software.
-- 🌱 Atualmente estou aprendendo Rails, Ruby, Python;
+- 🌱 Atualmente estou aprendendo Ruby e Python;
 - 👯 Estou procurando emprego ou novas oportunidades;
 - 🤔 Estou procurando por ajuda com minha evolução;
 - 💬 Me pergunte sobre qualquer coisa;
